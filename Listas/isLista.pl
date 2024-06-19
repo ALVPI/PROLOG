@@ -1,0 +1,2 @@
+lista([]).
+lista([X|Y]).
